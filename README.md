@@ -9,8 +9,8 @@ Il faut avoir des connaissances assez poussées en langage PYTHON (syntaxe, stru
 
 # Pour fonctionner, ce programme nécessite deux éléments :
 
-# ► Un environnement Python (comme EduPython, IDLE, ou PyCharm).
-
+# ► Un environnement Python (comme Thonny).
+📌 Exécuter le script courant dans un terminal ► Ctrl+T
 # ► Un système de gestion de base de données relationnelle tel que SQLite (intégré par défaut dans Python).
 #
 ✅ Les langages Python et SQL forment une combinaison technique puissante idéale pour le traitement des données. (Synergie des 2 langages de programmation).
