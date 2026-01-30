@@ -10,8 +10,11 @@ Il faut avoir des connaissances assez poussées en langage PYTHON (syntaxe, stru
 ## Pour fonctionner, ce programme nécessite deux éléments :
 
 ## ► Un environnement Python (comme Thonny).
+https://thonny.org/
+#
 📌 Exécuter le script courant dans un terminal ► Ctrl+T
 ## ► Un système de gestion de base de données relationnelle tel que SQLite (intégré par défaut dans Python).
+https://sqlite.org/
 #
 ✅ Les langages Python et SQL forment une combinaison technique puissante idéale pour le traitement des données. (Synergie des 2 langages de programmation).
 #
@@ -41,3 +44,5 @@ Il faut avoir des connaissances assez poussées en langage PYTHON (syntaxe, stru
 ## Il transforme ainsi les données brutes en décisions utiles.
 #
 ## En résumé : SQL prépare les données, Python les rend utiles.
+#
+👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
