@@ -16,6 +16,8 @@ https://thonny.org/
 ## ► Un système de gestion de base de données relationnelle tel que SQLite (intégré par défaut dans Python).
 https://sqlite.org/
 #
+✅ Les fichiers **Requêtes SQL intégrées dans PYTHON.py** et **gesco.db** doivent être impérativement placés dans le même dossier.
+#
 ✅ Les langages Python et SQL forment une combinaison technique puissante idéale pour le traitement des données. (Synergie des 2 langages de programmation).
 #
 ## Langage SQL : l’expert de la base de données
